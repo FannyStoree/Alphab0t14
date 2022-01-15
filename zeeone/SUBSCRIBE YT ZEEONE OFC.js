@@ -1,5 +1,5 @@
 /*
-Support channel ZEEONE OFC
+Support channel Fanny Store
 
 
 Yang jual sc ini anak haram
