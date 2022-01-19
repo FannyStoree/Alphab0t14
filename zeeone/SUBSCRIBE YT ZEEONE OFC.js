@@ -1,5 +1,5 @@
 /*
-Support channel Fanny Store
+Support channel Tokyo Store
 
 
 Yang jual sc ini anak haram
