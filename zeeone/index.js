@@ -1,3 +1,3 @@
 /*
-Support channel FANNY STORE⚡
+Support channel TOKYO STORE🔱
 */
