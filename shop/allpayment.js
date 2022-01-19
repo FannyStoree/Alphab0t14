@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY FANNY STORE
+return `PAYMENT BY TOKYO STORE
 
 
 *💰 E-MONEY*
